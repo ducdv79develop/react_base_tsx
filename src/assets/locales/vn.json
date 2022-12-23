@@ -1,0 +1,10 @@
+{
+  "message": {
+    "validation": {
+      "required": "{{name}} là mục bắt buộc nhập !",
+      "email": "Vui lòng nhập đúng định dạng E-mail !",
+      "min": "{{name}} là mục yêu cầu tối thiểu {{min}} kí tự !",
+      "max": "{{name}} chỉ được phép nhập tối đa {{max}} kí tự !"
+    }
+  }
+}

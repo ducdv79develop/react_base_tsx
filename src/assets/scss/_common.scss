@@ -1,0 +1,50 @@
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #377dff;
+}
+.pointer {
+  cursor: pointer;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.w-99 {
+  min-width: 120px;
+}
+
+.file-hov:hover {
+  color: #377dff !important;
+  text-decoration: underline;
+}
+
+.col-status {
+  background-color: #132144 !important;
+  border-radius: 20px;
+}
+
+.task-assign {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+}
+
+.min-h-20 {
+  min-height: 80px !important;
+}
